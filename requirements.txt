@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+streamlit
+google-genai
+pydantic
+lap
+numpy
